@@ -1,1 +1,1 @@
-初识appium
+通过appnium去测试魅族社区app的查询功能
